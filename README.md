@@ -22,7 +22,7 @@ Public data from
 Microsoft Excel was use for cleaning, transofromation and visualization of the data.
 
 
-#Findings
+# Findings
 1) There were a total of 3676 courses related to 4 subjects( Graphics Design,Web Development,Musical Instrument and Business Finance) offered by 11,760,483 subscribers in Udemy. With Total Average Rating of 0.61.		
 2) Web development is the most offered subject by subscribers in all level, beginner level, intermediate level and expert level. Due to the fact that it is the most offered course, this lead to increase in price by Udemy and it became the most expensive subject.			
 3)Subscribers prefer to take the full package rather than taking one after the other. This is relatable in that , paying for one level at a time rather than paying at once, the subscriber might lose interest after taking one level. Total package and enjoy at you convenience.		
